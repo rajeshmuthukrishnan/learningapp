@@ -1,0 +1,7 @@
+D:\Working\Projects\Azure\tmp2\learningapp\bin\Publish\learningapp.exe
+D:\Working\Projects\Azure\tmp2\learningapp\bin\Publish\appsettings.Development.json
+D:\Working\Projects\Azure\tmp2\learningapp\bin\Publish\appsettings.json
+D:\Working\Projects\Azure\tmp2\learningapp\bin\Publish\learningapp.dll
+D:\Working\Projects\Azure\tmp2\learningapp\bin\Publish\learningapp.deps.json
+D:\Working\Projects\Azure\tmp2\learningapp\bin\Publish\learningapp.runtimeconfig.json
+D:\Working\Projects\Azure\tmp2\learningapp\bin\Publish\learningapp.pdb
